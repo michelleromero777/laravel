@@ -1,6 +1,4 @@
-<style>
 
-</style>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="vista1">Reino Animal <i class="fa-solid fa-paw"></i></a>
