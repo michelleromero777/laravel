@@ -1,5 +1,6 @@
 @extends('plantilla')
 
 @section('contenido')
-<h1>Estoy usando Blade</h1>
+<h1>Home con blade</h1>
 @endsection
+

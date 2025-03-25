@@ -23,4 +23,10 @@ class InicioController extends Controller
     public function vista3(){
         return view("Vista3");
     }
+    public function vista4(){
+        return view("Vista4");
+    }
+    public function vista5(){
+        return view("Vista5");
+    }
 }
